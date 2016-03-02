@@ -59,6 +59,11 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>com.github.arnabk</groupId>
+            <artifactId>java-dogstatsd-client</artifactId>
+            <version>1.0.1</version>
+        </dependency>
     </dependencies>
 
 </project>
